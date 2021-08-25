@@ -1,4 +1,5 @@
 #                 Grading Students - Hackerrank 
 
-![Capture](https://user-images.githubusercontent.com/69051207/130753844-3f8ca8bc-f185-421d-b75d-8033b168c989.JPG)
+![Capture1](https://user-images.githubusercontent.com/69051207/130754170-8afc5277-39d2-4d08-a884-79c300150488.JPG)
+
 
