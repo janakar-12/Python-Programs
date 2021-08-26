@@ -29,10 +29,13 @@ A single line of four space-separated integers denoting the respective values of
 
 Constraints
 
-# Sample Input 0           Sample Output 0
+# Sample Input 0           
 
-#   0 3 4 2                      YES
+#   0 3 4 2                      
 
+# Sample Output 0
+
+#    YES
 
 Explanation 0
 
@@ -42,9 +45,13 @@ image
 
 From the image, it is clear that the kangaroos meet at the same location (number  on the number line) after same number of jumps ( jumps), and we print YES.
 
-#Sample Input 1           Sample Output 1
+#Sample Input 1           
 
-#   0 2 5 3                   NO
+#   0 2 5 3 
+
+# Sample Output 1
+
+#    NO
 
 Explanation 1
 
