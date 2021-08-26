@@ -45,7 +45,7 @@ image
 
 From the image, it is clear that the kangaroos meet at the same location (number  on the number line) after same number of jumps ( jumps), and we print YES.
 
-#Sample Input 1           
+# Sample Input 1           
 
 #   0 2 5 3 
 
