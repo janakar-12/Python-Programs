@@ -34,17 +34,18 @@ Constraints
 It is guaranteed that query type  will never query an empty array or index.
 # Sample Input
 
-2 5
-1 0 5
-1 1 7
-1 0 3
-2 1 0
+2 5 <br>
+1 0 5 <br>
+1 1 7 <br>
+1 0 3 <br>
+2 1 0 <br>
 2 1 1 <br>
 # Sample Output
 
-7
+7 <br>
 3 <br>
-Explanation
+
+# Explanation
 
 Initial Values:
 
