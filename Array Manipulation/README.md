@@ -5,10 +5,12 @@ Example
 
 Queries are interpreted as follows: <br>
 <br>
+
     a b k <br>
     1 5 3 <br>
     4 8 7 <br>
     6 9 1 <br>
+    
 Add the values of  between the indices  and  inclusive:
  <br>
 index->	 1 2 3  4  5 6 7 8 9 10 <br>
@@ -16,6 +18,7 @@ index->	 1 2 3  4  5 6 7 8 9 10 <br>
 	[3,3,3, 3, 3,0,0,0,0, 0] <br>
 	[3,3,3,10,10,7,7,7,0, 0] <br>
 	[3,3,3,10,10,8,8,8,1, 0] <br>
+	
 The largest value is  after all operations are performed.
 
 Function Description
@@ -42,9 +45,11 @@ Constraints
 1 2 100 <br>
 2 5 100 <br>
 3 4 100 <br>
+
 # Sample Output
  <br>
 200 <br>
+
 # Explanation
  <br>
 After the first update the list is 100 100 0 0 0. <br>
