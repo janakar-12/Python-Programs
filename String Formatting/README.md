@@ -1,9 +1,9 @@
 Given an integer, , print the following values for each integer  from  to :
 
-# Decimal
-# Octal
-# Hexadecimal (capitalized)
-# Binary <br>
+1) Decimal
+2) Octal
+3) Hexadecimal (capitalized)
+4) Binary <br>
 
 # Function Description
 
