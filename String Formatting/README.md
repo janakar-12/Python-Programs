@@ -20,8 +20,6 @@ The four values must be printed on a single line in the order specified above fo
 
 A single integer denoting .
 
-# Constraints
-
 # Sample Input
 
 17 <br>
