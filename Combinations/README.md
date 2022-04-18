@@ -37,13 +37,13 @@ HACK 2
 
 # Sample Output
 
-A
-C
-H
-K
-AC
-AH
-AK
-CH
-CK
-HK
+A <br>
+C <br>
+H <br>
+K <br>
+AC <br>
+AH <br>
+AK <br>
+CH <br>
+CK <br>
+HK <br>
